@@ -1,0 +1,5 @@
+package com.algaworks.festa.controller;
+
+public class ConvidadosController {
+
+}
